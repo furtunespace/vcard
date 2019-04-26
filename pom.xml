@@ -1,0 +1,10 @@
+<project>
+	<version></version>
+	<name>vcard</name>
+	<package>2.0</package>
+	<packaging>jar</packaging>
+	<groupId>vcard</groupId>
+<dependency>
+
+</dependency>
+</project>
