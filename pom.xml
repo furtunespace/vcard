@@ -19,7 +19,7 @@
     <repository>
       <uniqueVersion>false</uniqueVersion>
       <id>xcard-releases</id>
-      <name>xcard-releases/name>
+      <name>xcard-releases</name>
       <url>http://ec2-13-233-224-86.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/xcard-releases/</url>
       <layout>default</layout>
     </repository>
